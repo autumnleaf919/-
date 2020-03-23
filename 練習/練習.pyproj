@@ -24,6 +24,9 @@
     <Compile Include="Math\distance.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Math\PCH.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Math\__init__.py">
       <SubType>Code</SubType>
     </Compile>
